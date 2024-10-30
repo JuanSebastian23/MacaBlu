@@ -1,3 +1,6 @@
+.icon-text {
+    color: var(--fucsia-claro);
+}
 
 .navbar-custom {
     background-color: var(--fondo-oscuro); 
